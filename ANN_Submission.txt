@@ -1,1 +1,5 @@
-Coursework Synopsis:
+ANN Coursework Architectures:
+
+Transfer Learning
+MobileNet
+VGG-16
