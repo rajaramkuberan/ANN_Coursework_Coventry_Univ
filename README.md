@@ -1,6 +1,6 @@
 # ANN_Coursework_Coventry_University
 
-This project Worflow in carried out in five parts:
+This project Worflow is carried out in five parts:
 
 1. Data Collection
 2. Data preprocessing
