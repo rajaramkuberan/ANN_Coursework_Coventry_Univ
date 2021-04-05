@@ -6,4 +6,4 @@ This project Worflow is carried out in five parts:
 2. Data preprocessing
 3. CNN Architecture Selection and Modelling
 4. Image Classification and Prediction
-5. Evaluation and Metrics
+5. Metrics Calculation
